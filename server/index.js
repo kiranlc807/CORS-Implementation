@@ -1,11 +1,13 @@
 const express = require('express');
 const cors = require('cors');
+const helmet = require("helmet")
 const logger = require('./logger'); // Update the path to your logger file
 
 const app = express();
 const port = 3000;
 
 app.use(express.json());
+app.use(helmet());
 
 const whitelist = ['http://127.0.0.1:5500', 'http://example3.com'];
 
