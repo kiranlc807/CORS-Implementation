@@ -1,0 +1,66 @@
+[2024-02-06T09:18:03.219Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:18:05.202Z]<----->[INFO   ]<----->Request origin: http://127.0.0.1:5500
+[2024-02-06T09:18:05.203Z]<----->[INFO   ]<----->Data endpoint accessed
+[2024-02-06T09:18:23.981Z]<----->[INFO   ]<----->Request origin: null
+[2024-02-06T09:19:17.509Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:19:26.941Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:19:29.431Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:19:34.988Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:19:37.888Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:19:46.037Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:19:50.404Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:19:58.742Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:20:05.166Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:20:06.477Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:20:09.681Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:20:12.774Z]<----->[INFO   ]<----->Request origin: null
+[2024-02-06T09:20:27.886Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:20:41.876Z]<----->[INFO   ]<----->Request origin: null
+[2024-02-06T09:21:12.158Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+
+[2024-02-06T09:21:50.685Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:21:52.719Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:21:57.355Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:21:59.245Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:22:05.089Z]<----->[INFO   ]<----->Request origin: null
+[2024-02-06T09:22:30.148Z]<----->[INFO   ]<----->Request origin: http://127.0.0.1:5500
+[2024-02-06T09:22:30.150Z]<----->[INFO   ]<----->Data endpoint accessed
+[2024-02-06T09:22:54.244Z]<----->[INFO   ]<----->Request origin: null
+[2024-02-06T09:24:26.529Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:24:29.540Z]<----->[INFO   ]<----->Request origin: null
+[2024-02-06T09:25:16.920Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:25:19.657Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:25:22.276Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:25:24.006Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:25:27.406Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:25:38.789Z]<----->[ERROR  ]<----->Request denied
+[2024-02-06T09:25:48.731Z]<----->[ERROR  ]<----->Request denied
+[2024-02-06T09:25:48.733Z]<----->[INFO   ]<----->Data endpoint accessed
+[2024-02-06T09:26:04.198Z]<----->[ERROR  ]<----->Request denied
+[2024-02-06T09:26:04.198Z]<----->[INFO   ]<----->Data endpoint accessed
+[2024-02-06T09:26:30.436Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:26:44.092Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:26:48.842Z]<----->[INFO   ]<----->Request origin: http://127.0.0.1:5500
+[2024-02-06T09:26:48.844Z]<----->[INFO   ]<----->Data endpoint accessed
+[2024-02-06T09:26:50.790Z]<----->[INFO   ]<----->Request origin: null
+[2024-02-06T09:29:37.021Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:29:40.703Z]<----->[INFO   ]<----->Request origin: http://127.0.0.1:5500
+[2024-02-06T09:29:40.704Z]<----->[INFO   ]<----->Data endpoint accessed
+[2024-02-06T09:39:38.214Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:39:48.010Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:39:49.547Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:39:52.752Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:39:57.156Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:40:01.580Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:40:02.766Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:40:09.815Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:40:15.414Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:40:17.196Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:40:23.477Z]<----->[INFO   ]<----->Request origin: http://127.0.0.1:5500
+[2024-02-06T09:40:23.479Z]<----->[INFO   ]<----->Data endpoint accessed
+[2024-02-06T09:40:34.707Z]<----->[INFO   ]<----->Request origin: null
+[2024-02-06T09:40:50.639Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:40:55.990Z]<----->[INFO   ]<----->Request origin: null
+[2024-02-06T09:41:13.439Z]<----->[INFO   ]<----->Server listening at http://localhost:3000
+[2024-02-06T09:42:33.870Z]<----->[INFO   ]<----->Request origin: http://127.0.0.1:5500
+[2024-02-06T09:42:33.871Z]<----->[INFO   ]<----->Data endpoint accessed
